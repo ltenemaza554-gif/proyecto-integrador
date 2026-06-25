@@ -3,7 +3,7 @@
 ## Group members
 - Nicolás Villacres (Part 1)
 - [Nombre compañero 2]
-- [Nombre compañero 3]
+- Luis Tenemaza (part 3)
 
 ## Base ISO
 Linux Mint 22.3 "Zena" — Cinnamon Edition (64-bit)
