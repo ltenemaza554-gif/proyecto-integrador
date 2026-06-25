@@ -47,6 +47,9 @@ Cubic (Custom Ubuntu ISO Creator)
 
 ## Boot Test
 *[Screenshots pending]*
-
+![alt text](image-1.png)
+![alt text](image.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 ## Demo Video
 *[Link pending]*
