@@ -45,7 +45,7 @@ Cubic (Custom Ubuntu ISO Creator)
 |------|-------------|
 | linuxmint-2026.06.24.iso | 5e7fd4ba9ad673f5a042b6dd818a4bbb |
 
-## Boot Tests
+## Boot Test
 - Sistema bootea correctamente en QEMU (compatibility mode)
 - LibreWolf 152.0.2.1 confirmado via `flatpak list`
 - OnlyOffice 9.4.0 confirmado via `flatpak list`
