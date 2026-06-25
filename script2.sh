@@ -16,3 +16,7 @@ convert /workspaces/proyecto-integrador/screen.ppm /workspaces/proyecto-integrad
 rm -rf build
 docker run --rm -it -v "$(pwd)":/root/env kernel-build-buildenv make iso
 qemu-system-x86_64 -cdrom build/x86_64/kernel.iso -display none -monitor stdio
+git add README.md
+git commit -m "docs: README parte 2"
+git pull --rebase
+git push
