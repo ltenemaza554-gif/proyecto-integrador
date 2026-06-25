@@ -56,4 +56,4 @@ Cubic (Custom Ubuntu ISO Creator)
 ![VLC version](image-2.png)
 ![Desktop](image-3.png)
 ## Demo Video
-*[Link pending]*
+[*\[Link pending\]*](https://drive.google.com/file/d/1rmk4pbb40BBK-W1g_WK7zGr8_DzBT0TL/view?usp=sharing)
