@@ -46,10 +46,14 @@ Cubic (Custom Ubuntu ISO Creator)
 | linuxmint-2026.06.24.iso | 5e7fd4ba9ad673f5a042b6dd818a4bbb |
 
 ## Boot Test
-*[Screenshots pending]*
-![alt text](image-1.png)
-![alt text](image.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+- Sistema bootea correctamente en QEMU (compatibility mode)
+- LibreWolf 152.0.2.1 confirmado via `flatpak list`
+- OnlyOffice 9.4.0 confirmado via `flatpak list`
+- VLC 3.0.20 confirmado via `vlc version`
+
+![Boot screen](image.png)
+![Flatpak list - LibreWolf y OnlyOffice](image-1.png)
+![VLC version](image-2.png)
+![Desktop](image-3.png)
 ## Demo Video
 *[Link pending]*
