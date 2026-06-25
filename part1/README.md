@@ -35,8 +35,15 @@ Cubic (Custom Ubuntu ISO Creator)
 
 ## ISO Generation
 - Project folder: `/home/nico/linux`
+- Filename: `linuxmint-2026.06.24.iso`
+- Size: 4.39 GiB (4,709,896,192 bytes)
 - Compression: XZ
-- Checksum (SHA256): *[pending — to be added after ISO generation]*
+- Disk Name: Linux Mint 22.3.0 2026.06.24 "Custom Zena"
+
+## Checksum (MD5)
+| File | MD5 Checksum |
+|------|-------------|
+| linuxmint-2026.06.24.iso | 5e7fd4ba9ad673f5a042b6dd818a4bbb |
 
 ## Boot Test
 *[Screenshots pending]*
