@@ -1,1 +1,4 @@
 # proyecto-integrador
+parte 1
+parte 2
+parte 3 
