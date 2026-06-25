@@ -157,3 +157,4 @@ ip addr | grep "br_"
 nmap -sV 172.16.10.10 172.16.10.11 172.16.10.12
 ftp ftp://anonymous:@172.16.10.11
 ```
+video: https://youtu.be/un4B4HbetOs
