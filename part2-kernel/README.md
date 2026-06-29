@@ -10,7 +10,7 @@ docker build -t kernel-build-buildenv buildenv/
 docker run --rm -it -v "$(pwd)":/root/env kernel-build-buildenv make iso
 
 # 3. Probar en QEMU
-qemu-system-x86_64 -cdrom build/x86_64/kernel.iso
+qemu-system-x86_64 -nographic -cdrom build/x86_64/kernel.iso
 ```
 
 ## Estructura
