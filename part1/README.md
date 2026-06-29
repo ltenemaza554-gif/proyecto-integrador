@@ -2,7 +2,7 @@
 
 ## Group members
 - Nicolás Villacres (Part 1)
-- [Nombre compañero 2]
+- Dayanna (Part 2)
 - Luis Tenemaza (part 3)
 
 ## Base ISO
